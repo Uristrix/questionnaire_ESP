@@ -6,5 +6,3 @@
 Ссылка на клиент [тут.](https://github.com/Uristrix/questionnaire)
 
 Ссылка на api [тут.](https://github.com/Uristrix/api_questionnaire)
-
-Ссылка на прошивку прибора [тут.](https://github.com/Uristrix/questionnaire_ESP)
